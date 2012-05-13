@@ -1,0 +1,8 @@
+Jawaban dari Soal Tugas :
+
+Buatlah array untuk menyimpan data nama lengkap anda dan tampilkan huruf ke-2 dan ke-5
+Dengan menggunakan array 2 dimensi buatlah program untuk menghitung nilai akhir dari 15 orang mahasiswa* dengan aturan untuk nilai akhirnya yaitu :
+35% dari UTS
+35% dari UAS
+30% dari tugas 
+        *data diinput dalam line program
